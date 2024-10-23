@@ -1,0 +1,28 @@
+GitHub Profile Search Engine
+In this project, I used React.js and Tailwind CSS, along with the GitHub API to fetch user data. The purpose of this application is to search and explore GitHub user profiles.
+
+Features:
+User Information:
+
+Displays the user's name and username.
+Shows the date they joined GitHub.
+Includes a description of their profile if available.
+Statistics:
+
+Shows the total number of repositories.
+Displays the number of followers and people the user is following.
+Location and Company:
+
+Shows the user's current location and company.
+Social Links:
+
+Provides a link to the user's Twitter profile.
+Links to the user's GitHub profile for easy access.
+Icons:
+I used icons from Lucide React to enhance the interface and make it more user-friendly.
+
+UI Design:
+Responsive Design: The design is mobile-friendly, thanks to Tailwind CSS, making it easy for users to access on any device.
+Gradient Backgrounds: Gradient backgrounds make the UI visually appealing.
+Conclusion:
+This GitHub Profile Search Engine provides an interactive and informative user experience using React.js and Tailwind CSS. With this application, you can easily search for any GitHub user and view their important information.
